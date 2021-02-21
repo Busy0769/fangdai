@@ -1,6 +1,9 @@
 # 房贷计算器（LPR版）
 
+根据“confidence68”大神的版本修改而来(感谢[@confidence68](https://github.com/confidence68))，适配现行的LPR利率计算
+
 纯前端静态计算，贷款利率等配置请看js/config.js
+
 默认是4.65%基准利率（2021年）
 
 # vue版本和react版本可以基于此转换
